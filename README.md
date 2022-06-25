@@ -1,5 +1,5 @@
-# Crypto-investment-methods-backtesting
-A tool that allows to check whether certain data can be used to predict a price evolution
+# Sotcks backtesting
+A tool that allows to check whether certain data can be used to predict a price evolution on different stocks using polynimal regressions
 
 # Working principle
 Downloads historical data from a list of stocks, and tests whether certain data may allow to predict the price thanks to a polynomial regression where the data in question is compared to the price a set amount of days later. The user can modify the program to print only the datasets that gave an R^2 value above a certain threshold.

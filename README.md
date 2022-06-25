@@ -1,4 +1,4 @@
-# Sotcks backtesting
+# Stocks backtesting
 A tool that allows to check whether certain data can be used to predict a price evolution on different stocks using polynimal regressions
 
 # Working principle
